@@ -1,4 +1,5 @@
 import React from 'react';
+import { useEffect } from 'react';
 import useAudio from '../hooks/useAudio';
 import VibeyBeatcomp from '../assets/audio/VibeyBeatcomp.mp3';
 
