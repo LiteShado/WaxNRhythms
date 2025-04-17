@@ -2,10 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Optional: your custom CSS below */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: theme('colors.brick-red'); /* optional */
+  background-color: theme('colors.brick-red', #512F27); 
 }
 
 
@@ -77,3 +76,4 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
