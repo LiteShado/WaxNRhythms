@@ -1,4 +1,13 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: your custom CSS below */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: theme('colors.brick-red'); /* optional */
+}
+
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
