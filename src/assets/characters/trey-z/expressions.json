@@ -1,0 +1,13 @@
+{
+    "expressions": {
+        "content": "Confident resting face",
+        "happy": "Smiling, photorealism",
+        "ready": "Eyes narrowed, leaning forward",
+        "accomplished": "Looking like victory",
+        "smirk": "Mouth slightly smirked",
+        "compete": "Furrowed brow, intense stare",
+        "profile": "Photo during game load",
+        "mad": "Looking frustrated",
+        "sad": "When player makes mistake"
+    }
+}
